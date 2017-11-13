@@ -80,10 +80,4 @@ You can run the application using the following maven command
     $ mvn spring-boot:run
     
 Profile
-
-University Name: http://www.sjsu.edu/<br>
-Course: Cloud Technologies<br>
-Professor Sanjay Garje<br>
-ISA: Divyankitha Urs<br>
-Student: Ravi Shanker katta.<br>
 LinkedIn: www.linkedin.com/in/ravi-shanker-katta
