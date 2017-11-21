@@ -7,10 +7,7 @@ It is a custom application built to present a digital menu.
 Idea
 
 The   project   idea   is   about   digital   menu   over   a   mobile/Tab      application,   
-which   lets   the      the   customers   to order   the   items      over   the   tab   rather   than   
-looking   into   the   paper   menu,   the   advantage   it   brings   is   more detailed   and   informative   menu,   
-enhanced   dish   presentation,   more   flexibility   to   plan   the   budget   while ordering   along   with   more   
-benefits.   The   current   scope   of   this   project-1   is   to   just   cover   the   web   part   of   it where   the   administrator   of   the         application   will   try   to   add   the   menu   into   the   system.  
+The   current   scope   of   this   project-1   is   to   just   cover   the   web   part   of   it where   the   administrator   of   the         application   will   try   to   add   the   menu   into   the   system.  
 The   same   menu   will be   later   be   consumed   by   mobile   and   tab   devices.
 Solution
 
